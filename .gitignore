@@ -1,0 +1,11 @@
+.DS_Store
+.idea/
+.vs/
+/build*/
+/out/
+*.obj
+*.o
+*.exe
+*.pdb
+*.ilk
+*.user
